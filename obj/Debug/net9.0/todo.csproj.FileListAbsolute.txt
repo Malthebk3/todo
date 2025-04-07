@@ -1,0 +1,15 @@
+/Users/malthebk/projects/todo/obj/Debug/net9.0/todo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/malthebk/projects/todo/obj/Debug/net9.0/todo.AssemblyInfoInputs.cache
+/Users/malthebk/projects/todo/obj/Debug/net9.0/todo.AssemblyInfo.cs
+/Users/malthebk/projects/todo/obj/Debug/net9.0/todo.csproj.CoreCompileInputs.cache
+/Users/malthebk/projects/todo/obj/Debug/net9.0/todo.sourcelink.json
+/Users/malthebk/projects/todo/bin/Debug/net9.0/todo
+/Users/malthebk/projects/todo/bin/Debug/net9.0/todo.deps.json
+/Users/malthebk/projects/todo/bin/Debug/net9.0/todo.runtimeconfig.json
+/Users/malthebk/projects/todo/bin/Debug/net9.0/todo.dll
+/Users/malthebk/projects/todo/bin/Debug/net9.0/todo.pdb
+/Users/malthebk/projects/todo/obj/Debug/net9.0/todo.dll
+/Users/malthebk/projects/todo/obj/Debug/net9.0/refint/todo.dll
+/Users/malthebk/projects/todo/obj/Debug/net9.0/todo.pdb
+/Users/malthebk/projects/todo/obj/Debug/net9.0/todo.genruntimeconfig.cache
+/Users/malthebk/projects/todo/obj/Debug/net9.0/ref/todo.dll
